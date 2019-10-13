@@ -18,7 +18,7 @@ Answer the following questions regarding [this](../image) file:
 
 2. Where was this photo taken? Provide a city, state and the name of the building in your answer.
     
-    New York City, New York, John Hancock Center
+    Chicago, Illinois, John Hancock Center
 
 3. When was this photo taken? Provide a timestamp in your answer.
     
