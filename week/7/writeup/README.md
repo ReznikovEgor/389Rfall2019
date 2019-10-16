@@ -35,3 +35,4 @@ Answer the following questions regarding [this](../image) file:
 6. Provide any found flags in this file in standard flag format.
 
     CMSC389R-{look_I_f0und_a_str1ng}
+    CMSC389R-{abr@cadabra}
