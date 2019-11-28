@@ -32,9 +32,9 @@ Produce a writeup. We will not take off points for viewing the source code and/o
 
 1. I inputed <script>alert()</script>
 
-2. A hint lead me to use onerror and img source, so I inputed "<img src='' onerror=window.alert()>" in a forum post
+2. A hint lead me to use onerror and img source, so I inputed \<img src='' onerror=window.alert()> in a forum post
 
-3. For this one, I saw that the url would change when you click on different tabs so I used what I had in the last level in the url of this level. https://xss-game.appspot.com/level3/frame#"<img src='' onerror=window.alert()>"
+3. For this one, I saw that the url would change when you click on different tabs so I used what I had in the last level in the url of this level. https://xss-game.appspot.com/level3/frame# \<img src='' onerror=window.alert()>\
 
 4. I inputed ');alert(' to preform the xss. The "');" part tells the website to end the onload function and then the rest sends the alert.
 
